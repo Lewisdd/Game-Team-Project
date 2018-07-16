@@ -2,6 +2,8 @@ Video Game Project. Mutliplayer Tank game.
 
 
 P1:
+
+
 W - Forwards.
 
 S - Backwards.
@@ -13,6 +15,8 @@ Space - shoot.
 
 
 P2:
+
+
 Up Arrow - Forwards.
 
 Down Arrow - Backwards.
