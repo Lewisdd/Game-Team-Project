@@ -1,5 +1,12 @@
 Video Game Project. Mutliplayer Tank game.
 
+![alt text](https://github.com/Lewisdd/Game-Team-Project/blob/master/Mazetank1.PNG)
+
+
+![alt text](https://github.com/Lewisdd/Game-Team-Project/blob/master/Mazetank2.PNG)
+
+
+
 
 P1:
 
